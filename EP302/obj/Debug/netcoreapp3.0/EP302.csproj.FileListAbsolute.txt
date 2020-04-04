@@ -1,0 +1,11 @@
+/Users/hiro302/C#/OneWeekStudy/EP302/bin/Debug/netcoreapp3.0/EP302
+/Users/hiro302/C#/OneWeekStudy/EP302/bin/Debug/netcoreapp3.0/EP302.deps.json
+/Users/hiro302/C#/OneWeekStudy/EP302/bin/Debug/netcoreapp3.0/EP302.runtimeconfig.json
+/Users/hiro302/C#/OneWeekStudy/EP302/bin/Debug/netcoreapp3.0/EP302.runtimeconfig.dev.json
+/Users/hiro302/C#/OneWeekStudy/EP302/bin/Debug/netcoreapp3.0/EP302.dll
+/Users/hiro302/C#/OneWeekStudy/EP302/bin/Debug/netcoreapp3.0/EP302.pdb
+/Users/hiro302/C#/OneWeekStudy/EP302/obj/Debug/netcoreapp3.0/EP302.csprojAssemblyReference.cache
+/Users/hiro302/C#/OneWeekStudy/EP302/obj/Debug/netcoreapp3.0/EP302.AssemblyInfoInputs.cache
+/Users/hiro302/C#/OneWeekStudy/EP302/obj/Debug/netcoreapp3.0/EP302.AssemblyInfo.cs
+/Users/hiro302/C#/OneWeekStudy/EP302/obj/Debug/netcoreapp3.0/EP302.dll
+/Users/hiro302/C#/OneWeekStudy/EP302/obj/Debug/netcoreapp3.0/EP302.pdb
