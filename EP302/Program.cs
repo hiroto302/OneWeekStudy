@@ -9,10 +9,10 @@ namespace EP302
         {
             Console.Write("正数を入力 : ");
             var n = float.Parse(Console.ReadLine());
-            // 整数の判定
+            // 整数の判定式
             var m = n / Math.Floor(n);
 
-            // 正数の判定
+            // 正数かつ整数の判定
             if(0 < n　&& m == 1)
             {
                 for(int i = (int)n; 0 < i; i--)
