@@ -1,0 +1,11 @@
+/Users/hiro302/C#/OneWeekStudy/Sample602/obj/Debug/netcoreapp3.0/Sample602.csprojAssemblyReference.cache
+/Users/hiro302/C#/OneWeekStudy/Sample602/obj/Debug/netcoreapp3.0/Sample602.AssemblyInfoInputs.cache
+/Users/hiro302/C#/OneWeekStudy/Sample602/obj/Debug/netcoreapp3.0/Sample602.AssemblyInfo.cs
+/Users/hiro302/C#/OneWeekStudy/Sample602/bin/Debug/netcoreapp3.0/Sample602
+/Users/hiro302/C#/OneWeekStudy/Sample602/bin/Debug/netcoreapp3.0/Sample602.deps.json
+/Users/hiro302/C#/OneWeekStudy/Sample602/bin/Debug/netcoreapp3.0/Sample602.runtimeconfig.json
+/Users/hiro302/C#/OneWeekStudy/Sample602/bin/Debug/netcoreapp3.0/Sample602.runtimeconfig.dev.json
+/Users/hiro302/C#/OneWeekStudy/Sample602/bin/Debug/netcoreapp3.0/Sample602.dll
+/Users/hiro302/C#/OneWeekStudy/Sample602/bin/Debug/netcoreapp3.0/Sample602.pdb
+/Users/hiro302/C#/OneWeekStudy/Sample602/obj/Debug/netcoreapp3.0/Sample602.dll
+/Users/hiro302/C#/OneWeekStudy/Sample602/obj/Debug/netcoreapp3.0/Sample602.pdb
