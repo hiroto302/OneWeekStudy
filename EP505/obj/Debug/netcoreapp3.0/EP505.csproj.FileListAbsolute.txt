@@ -1,0 +1,11 @@
+/Users/hiro302/C#/OneWeekStudy/EP505/obj/Debug/netcoreapp3.0/EP505.csprojAssemblyReference.cache
+/Users/hiro302/C#/OneWeekStudy/EP505/obj/Debug/netcoreapp3.0/EP505.AssemblyInfoInputs.cache
+/Users/hiro302/C#/OneWeekStudy/EP505/obj/Debug/netcoreapp3.0/EP505.AssemblyInfo.cs
+/Users/hiro302/C#/OneWeekStudy/EP505/bin/Debug/netcoreapp3.0/EP505
+/Users/hiro302/C#/OneWeekStudy/EP505/bin/Debug/netcoreapp3.0/EP505.deps.json
+/Users/hiro302/C#/OneWeekStudy/EP505/bin/Debug/netcoreapp3.0/EP505.runtimeconfig.json
+/Users/hiro302/C#/OneWeekStudy/EP505/bin/Debug/netcoreapp3.0/EP505.runtimeconfig.dev.json
+/Users/hiro302/C#/OneWeekStudy/EP505/bin/Debug/netcoreapp3.0/EP505.dll
+/Users/hiro302/C#/OneWeekStudy/EP505/bin/Debug/netcoreapp3.0/EP505.pdb
+/Users/hiro302/C#/OneWeekStudy/EP505/obj/Debug/netcoreapp3.0/EP505.dll
+/Users/hiro302/C#/OneWeekStudy/EP505/obj/Debug/netcoreapp3.0/EP505.pdb
