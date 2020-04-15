@@ -1,0 +1,11 @@
+/Users/hiro302/C#/OneWeekStudy/Prob305/bin/Debug/netcoreapp3.0/Prob305
+/Users/hiro302/C#/OneWeekStudy/Prob305/bin/Debug/netcoreapp3.0/Prob305.deps.json
+/Users/hiro302/C#/OneWeekStudy/Prob305/bin/Debug/netcoreapp3.0/Prob305.runtimeconfig.json
+/Users/hiro302/C#/OneWeekStudy/Prob305/bin/Debug/netcoreapp3.0/Prob305.runtimeconfig.dev.json
+/Users/hiro302/C#/OneWeekStudy/Prob305/bin/Debug/netcoreapp3.0/Prob305.dll
+/Users/hiro302/C#/OneWeekStudy/Prob305/bin/Debug/netcoreapp3.0/Prob305.pdb
+/Users/hiro302/C#/OneWeekStudy/Prob305/obj/Debug/netcoreapp3.0/Prob305.csprojAssemblyReference.cache
+/Users/hiro302/C#/OneWeekStudy/Prob305/obj/Debug/netcoreapp3.0/Prob305.AssemblyInfoInputs.cache
+/Users/hiro302/C#/OneWeekStudy/Prob305/obj/Debug/netcoreapp3.0/Prob305.AssemblyInfo.cs
+/Users/hiro302/C#/OneWeekStudy/Prob305/obj/Debug/netcoreapp3.0/Prob305.dll
+/Users/hiro302/C#/OneWeekStudy/Prob305/obj/Debug/netcoreapp3.0/Prob305.pdb
