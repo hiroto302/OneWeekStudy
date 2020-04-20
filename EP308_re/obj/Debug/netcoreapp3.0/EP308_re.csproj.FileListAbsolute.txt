@@ -1,0 +1,11 @@
+/Users/hiro302/C#/OneWeekStudy/EP308_re/bin/Debug/netcoreapp3.0/EP308_re
+/Users/hiro302/C#/OneWeekStudy/EP308_re/bin/Debug/netcoreapp3.0/EP308_re.deps.json
+/Users/hiro302/C#/OneWeekStudy/EP308_re/bin/Debug/netcoreapp3.0/EP308_re.runtimeconfig.json
+/Users/hiro302/C#/OneWeekStudy/EP308_re/bin/Debug/netcoreapp3.0/EP308_re.runtimeconfig.dev.json
+/Users/hiro302/C#/OneWeekStudy/EP308_re/bin/Debug/netcoreapp3.0/EP308_re.dll
+/Users/hiro302/C#/OneWeekStudy/EP308_re/bin/Debug/netcoreapp3.0/EP308_re.pdb
+/Users/hiro302/C#/OneWeekStudy/EP308_re/obj/Debug/netcoreapp3.0/EP308_re.csprojAssemblyReference.cache
+/Users/hiro302/C#/OneWeekStudy/EP308_re/obj/Debug/netcoreapp3.0/EP308_re.AssemblyInfoInputs.cache
+/Users/hiro302/C#/OneWeekStudy/EP308_re/obj/Debug/netcoreapp3.0/EP308_re.AssemblyInfo.cs
+/Users/hiro302/C#/OneWeekStudy/EP308_re/obj/Debug/netcoreapp3.0/EP308_re.dll
+/Users/hiro302/C#/OneWeekStudy/EP308_re/obj/Debug/netcoreapp3.0/EP308_re.pdb
